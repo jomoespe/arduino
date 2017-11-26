@@ -7,8 +7,8 @@ A simple fade-in/fade-out led.
 
 ### Circuit
 
-![Circuit][simplefade_bb.png]
+![Circuit](./simplefade_bb.png)
 
 ### Schema
 
-![Schema][simplefade_pin9_schem.png]
+![Schema](./simplefade_pin9_schem.png)
